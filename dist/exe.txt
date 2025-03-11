@@ -1,0 +1,3 @@
+the .exe file is generte by:
+pip install pyinstaller
+pyinstaller --onefile main.py
